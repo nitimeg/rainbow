@@ -1,4 +1,4 @@
-# rainbow and the unicorn
+# rainbow and the unicorn and the pony
 This is my first repo of rainbow
 
 blue.
@@ -12,4 +12,5 @@ deer
 beer
 meer
 sgfree
+pony.
 this is rainbow songs.
