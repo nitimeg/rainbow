@@ -1,4 +1,4 @@
-# rainbow
+# rainbow and the unicorn
 This is my first repo of rainbow
 
 blue.
@@ -7,4 +7,8 @@ black,
 red,
 white,
 purple,
+deer
+beer
+meer
+sgfree
 this is rainbow songs.
