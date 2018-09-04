@@ -7,6 +7,7 @@ black,
 red,
 white,
 purple,
+indigo,golden,fish
 deer
 beer
 meer
