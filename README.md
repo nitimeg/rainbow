@@ -6,4 +6,5 @@ green,
 black,
 red,
 white,
+purple,
 this is rainbow songs.
