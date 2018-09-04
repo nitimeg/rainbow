@@ -4,6 +4,6 @@ This is my first repo of rainbow
 blue.
 green,
 black,
-red
-
+red,
+white,
 this is rainbow songs.
